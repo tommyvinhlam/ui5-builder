@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<library xmlns="http://www.sap.com/sap.ui.library.xsd" >
+
+	<name>library.j</name>
+	<vendor>SAP SE</vendor>
+	<copyright>Some fancy copyright</copyright>
+	<version>${version}</version>
+
+	<title>{{title}}</title>
+	<documentation>{{description}}</documentation>
+
+	<dependencies>
+		<dependency>
+			<libraryName>sap.ui.core</libraryName>
+		</dependency>
+	</dependencies>
+
+</library>
